@@ -16,3 +16,5 @@ Build a tree from an array of tree nodes
 The tests can be run using:
 
     pytest test_hier.py
+    
+<img width="222" alt="test" src="https://user-images.githubusercontent.com/84997756/179579079-aa93ca1c-4926-4ee0-b9d9-b6f36dd31d7f.png">
