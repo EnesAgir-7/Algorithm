@@ -33,3 +33,4 @@ if this rule is not implemented. Tests:
 
 # Task 4: Console Output
 
+![ss](https://user-images.githubusercontent.com/84997756/186637159-41196e63-1bd1-4b1a-b096-0aabcbca8c80.png)
