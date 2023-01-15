@@ -1,0 +1,13 @@
+[{
+  "id": 1,
+  "email": "user7@gmail.com",
+  "name": "enes7",
+  "lastname": "agir",
+  "password": "$2a$10$2JwyrKUa4AVdRDGlnC7/6.kfYAMTubJLVzmXvqk.VTLgbC3WcPMp2"
+}, {
+  "id": 2,
+  "email": "user6@gmail.com",
+  "name": "enes6",
+  "lastname": "agir",
+  "password": "$2a$10$tiyy7tsJPvefMcDNgEBekOzK0prX3lxn/coHWD/w/85TYmbcHkzGO"
+}]

@@ -1,0 +1,156 @@
+{
+  "Purchases": [{
+      "ID": 1,
+      "Date": "2022-01-01",
+      "UserID": 1,
+      "TotalPurchasePrice": 250
+
+    },
+    {
+      "ID": 2,
+      "Date": "2022-02-01",
+      "UserID": 2,
+      "TotalPurchasePrice": 200
+    },
+    {
+      "ID": 3,
+      "Date": "2022-03-01",
+      "UserID": 3,
+      "TotalPurchasePrice": 150
+
+    },
+    {
+      "ID": 4,
+      "Date": "2022-04-01",
+      "UserID": 4,
+      "TotalPurchasePrice": 200
+    }
+  ],
+  "PurchaseItems": [{
+    "ID":1,
+      "PurchaseID":1,
+      "ItemID":1,
+      
+      "Quantity": 2,
+      "Price": 50,
+      "TotalPurchaseItemPrice": 100
+    },
+    {
+      "ID":2,
+      "PurchaseID":2,
+      "ItemID":2,
+      "Quantity": 1,
+      "Price": 100,
+      "TotalPurchaseItemPrice": 100
+    }, {
+      "ID":3,
+      "PurchaseID":1,
+      "ItemID":3,
+      "Quantity": 2,
+      "Price": 25,
+      "TotalPurchaseItemPrice": 50
+    },
+    {
+      "ID":4,
+      "PurchaseID":3,
+      "ItemID":3,
+      "ItemName": "Jim Beam White Label",
+      "Quantity": 1,
+      "Price": 35,
+      "TotalPurchaseItemPrice": 35
+    },
+    {
+      "ID":5,
+      "PurchaseID":4,
+      "ItemID":3,
+      "ItemName": "Glenfiddich 12 Year Old",
+      "Quantity": 2,
+      "Price": 60,
+      "TotalPurchaseItemPrice": 120
+    },
+    {
+      "ID":6,
+      "PurchaseID":4,
+      "ItemID":3,
+      "ItemName": "Macallan 12 Year Old",
+      "Quantity": 1,
+      "Price": 80,
+      "TotalPurchaseItemPrice": 80
+    },
+    {
+      "ID":7,
+      "PurchaseID":1,
+      "ItemID":3,
+      "ItemName": "Maker's Mark",
+      "Quantity": 2,
+      "Price": 50,
+      "TotalPurchaseItemPrice": 100
+    },
+    {
+      "ID":8,
+      "PurchaseID":3,
+      "ItemID":3,
+      "ItemName": "Wild Turkey 101",
+      "Quantity": 1,
+      "Price": 75,
+      "TotalPurchaseItemPrice": 75
+    }
+  ],
+  "Items": [{
+      "ID": 1,
+      "Name": "Johnnie Walker Black Label",
+      "Description": "A smooth blend of malted and unmalted grains, aged for 12 years.",
+      "DateAdded": "2021-12-01",
+      "Price": 50
+    },
+    {
+      "ID": 2,
+      "Name": "Chivas Regal 18 Year Old",
+      "Description": "A rich and complex blend of aged malts and grains, aged for 18 years.",
+      "DateAdded": "2021-12-01",
+      "Price": 100
+    },
+    {
+      "ID": 3,
+      "Name": "Glenfiddich 12 Year Old",
+      "Description": "A smooth and well-balanced single malt Scotch whisky, aged for 12 years.",
+      "DateAdded": "2021-12-01",
+      "Price": 60
+    },
+    {
+      "ID": 4,
+      "Name": "Macallan 12 Year Old",
+      "Description": "A rich and complex single malt Scotch whisky, aged for 12 years.",
+      "DateAdded": "2021-12-01",
+      "Price": 80
+    },
+    {
+      "ID": 5,
+      "Name": "Jack Daniel's Old No. 7",
+      "Description": "A classic American whiskey with a smooth and distinct flavor.",
+      "DateAdded": "2021-12-01",
+      "Price": 25
+    },
+    {
+      "ID": 6,
+      "Name": "Jim Beam White Label",
+      "Description": "A smooth and easy-drinking bourbon whiskey.",
+      "DateAdded": "2021-12-01",
+      "Price": 35
+    },
+    {
+      "ID": 7,
+      "Name": "Maker's Mark",
+      "Description": "A premium bourbon whiskey with a smooth and rich flavor profile.",
+      "DateAdded": "2021-12-01",
+      "Price": 50
+    },
+    {
+      "ID": 8,
+      "Name": "Wild Turkey 101",
+      "Description": "A bold and robust bourbon whiskey with a high alcohol content.",
+      "DateAdded": "2021-12-01",
+      "Price": 75
+    }
+  ]
+}
